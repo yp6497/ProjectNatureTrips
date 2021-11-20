@@ -25,7 +25,7 @@ public class activityNotification extends AppCompatActivity {
 
     public void viewNotification(View view) {
 
-        Not= textNotification.toString();
+        Not= textNotification.getText().toString();
 
         /*NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID);
         .setSmallIcon(R.drawable.notification_icon)
