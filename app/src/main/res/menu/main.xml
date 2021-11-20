@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menuAuth"
+        android:title="Auth"
+        android:orderInCategory="100" />
+    <item
+        android:id="@+id/menuMap"
+        android:title="Map"
+        android:orderInCategory="200" />
+    <item
+        android:id="@+id/menuGallery"
+        android:title="Gallery"
+        android:orderInCategory="300" />
+    <item
+        android:id="@+id/menuCamera"
+        android:title="Camera"
+        android:orderInCategory="400" />
+    <item
+        android:id="@+id/menuNotification"
+        android:title="Notification"
+        android:orderInCategory="500" />
+</menu>

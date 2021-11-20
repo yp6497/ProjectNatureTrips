@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334216453203",
+    "project_id": "projectnaturetrips",
+    "storage_bucket": "projectnaturetrips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334216453203:android:5d3c41d521cd4cea393aa6",
+        "android_client_info": {
+          "package_name": "com.example.projectnaturetrips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334216453203-2ka8jcvr00d0sml6v9n5h7t95qvp2its.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRypJx3qgP9pgRmMlb1hWgssCKi5YTgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334216453203-2ka8jcvr00d0sml6v9n5h7t95qvp2its.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
